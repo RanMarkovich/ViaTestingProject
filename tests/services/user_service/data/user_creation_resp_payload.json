@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "data": {
+    "first_name": "first_name",
+    "last_name": "last_name",
+    "age": 12,
+    "email": "user@fakemail.com",
+    "id": 673
+  }
+}
